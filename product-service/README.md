@@ -42,4 +42,4 @@ Start the Development Server:
   ```bash
   npm run start:dev
 
-Open http://localhost:3000/api in your browser to view the API documentation.
+Open http://localhost:3001/api in your browser to view the API documentation.
